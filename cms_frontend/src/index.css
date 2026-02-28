@@ -1,0 +1,137 @@
+#nav-container a {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+#nav-container h3 {
+  color: transparent;
+  font-size: 30px;
+  font-weight: bold;
+  background-image: linear-gradient(45deg, orange, red);
+  -webkit-background-clip: text;
+  margin-left: 20px;
+}
+#nav-container h3::first-letter {
+  font-size: 50px;
+}
+
+#nav-container a {
+  color: aliceblue;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  text-decoration-line: none;
+}
+
+#nav-container svg {
+  font-weight: bold;
+  height: 25px;
+  width: 25px;
+  margin-left: 10px;
+}
+
+#landPage-container {
+  padding: 50px;
+}
+
+#button-container {
+  display: flex;
+  justify-content: center;
+}
+
+#footer {
+  border: none;
+  background-image: linear-gradient(transparent, blue);
+}
+
+#footer-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+#footer-container ol,
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+
+#footer-container ol > li {
+  font-size: 20px;
+}
+#footer-container ol > li:hover {
+  font-style: italic;
+  transform: scale(1.1);
+  cursor: pointer;
+  text-decoration-line: underline;
+}
+
+/* register Stylings */
+
+#form-container {
+  padding: 30px;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("https://img.freepik.com/free-photo/black-friday-sales-sign-neon-light_23-2151833076.jpg?semt=ais_user_personalization&w=740&q=80");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#form {
+  width: 600px;
+  border: 1px solid black;
+  padding: 20px;
+  backdrop-filter: blur(20px);
+  box-shadow: 4px 4px 4px aliceblue;
+  border-radius: 10px 50px;
+}
+
+#form > h1 {
+  text-align: center;
+  text-shadow: 2px 2px 2px aliceblue;
+  font-size: 40px;
+  font-style: italic;
+}
+
+#form > h1::first-letter {
+  font-size: 60px;
+}
+
+#form label {
+  color: aliceblue;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* admin dashboard stylings */
+
+#basic-navbar-nav a {
+  color: palevioletred;
+  margin: 10px;
+  background-color: palegoldenrod;
+  border-radius: 8px;
+  font-size: 16px;
+}
+#basic-navbar-nav a:hover {
+  text-decoration: underline;
+  transform: scale(1.1);
+  background-color: rgb(245, 237, 149);
+  box-shadow: 2px 2px 2px black;
+}
+
+#basic-nav-dropdown a {
+  padding: 6px 10px !important;
+}
+
+div[data-bs-popper="static"] a{
+  text-wrap-style: pretty;
+  text-wrap-mode: wrap;
+  width: 180px;
+
+}

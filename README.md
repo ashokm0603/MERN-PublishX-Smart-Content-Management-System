@@ -1,4 +1,4 @@
-# 📝 MERN PublishX – Smart Content Management System
+# MERN PublishX – Smart Content Management System
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge&logo=mongodb)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -164,11 +164,14 @@ VITE_API_BASE_URL=http://localhost:5000/api
 
 ## 📸 Screenshots
 
-*(Replace these placeholders with actual screenshots of your application running)*
+### Landing Page
+![Landing Page](screenshots/Landing-Page.png)
 
-| Home Page / Post Feed | Add New Post Form |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/400x250.png?text=Home+Page+Screenshot" alt="Home Page" /> | <img src="https://via.placeholder.com/400x250.png?text=Add+Post+Screenshot" alt="Add Post" /> |
+### User Registration
+![User Registration](screenshots/User-Register-page.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/Admin-Dashboard.png)
 
 ---
 
@@ -207,8 +210,8 @@ To contribute or submit your assignment for this project, please adhere to the f
 
 **[Your Name / Your Organization Name]**  
 *Full Stack Developer*  
-* GitHub: [@YourUsername](https://github.com/YourUsername)
-* LinkedIn: [YourProfile](https://linkedin.com/in/YourProfile)
+* GitHub: [@Ashoka M](https://github.com/ashokm0603)
+* LinkedIn: [Ashoka M](https://www.linkedin.com/in/ashoka-m-307984229/)
 
 ---
 > ⭐ If you find this project helpful for learning the MERN Stack, please consider giving it a star on GitHub!

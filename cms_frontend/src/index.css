@@ -142,3 +142,19 @@ div[data-bs-popper="static"] a{
   width: 180px;
 
 }
+
+
+
+
+.add-post-container{
+  padding:80px;
+}
+
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: none !important;
+}

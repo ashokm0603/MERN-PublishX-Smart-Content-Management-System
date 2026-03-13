@@ -1,3 +1,5 @@
+<h1 align="center">Date : 13-03-2026</h1>
+
 # MERN PublishX – Smart Content Management System
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge&logo=mongodb)
